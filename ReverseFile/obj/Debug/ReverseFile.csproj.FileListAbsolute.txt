@@ -1,0 +1,7 @@
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile\obj\Debug\ReverseFile.csproj.CoreCompileInputs.cache
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile\bin\Debug\Data\Input.txt
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile\bin\Debug\ReverseFile.exe.config
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile\bin\Debug\ReverseFile.exe
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile\bin\Debug\ReverseFile.pdb
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile\obj\Debug\ReverseFile.exe
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile\obj\Debug\ReverseFile.pdb

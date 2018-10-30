@@ -1,0 +1,17 @@
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\obj\Debug\ReverseFile.Test.csprojResolveAssemblyReference.cache
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\obj\Debug\ReverseFile.Test.csproj.CoreCompileInputs.cache
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\bin\Debug\Data\Input.txt
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\bin\Debug\ReverseFile.Test.dll
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\bin\Debug\ReverseFile.Test.pdb
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\bin\Debug\ReverseFile.exe
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\bin\Debug\ReverseFile.pdb
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\bin\Debug\ReverseFile.exe.config
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\obj\Debug\ReverseFile.Test.dll
+C:\Users\Pilu\Desktop\ReverseFile\ReverseFile.Test\obj\Debug\ReverseFile.Test.pdb
